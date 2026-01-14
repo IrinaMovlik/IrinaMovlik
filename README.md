@@ -1,16 +1,26 @@
-## Hi there 👋
+# Мовлик Ирина 
+## Software Testing Enginer
+#### Контактные данные:
+ +375295872427 (WhatsApp, Telegram, Viber)  
+ ira.busko.9723@gmail.com
+ 
+ ## Skills
+ * Теория тестирования 
+ * Тестовая документация(чек-лист, тест-кейс, баг-репорт):
+ * Техники тест-дизайна
+ * HTML,СSS 
+ * SQL
+ * API 
+ * Нагрузочное тестирование
+ * Мобильное тестирование 
+  ## Инструменты 
+  ClickUp, TestCaseLab, Сhrome DevTools, Postman, Apache JMeter, Android Studio, Proxyman
 
-<!--
-**IrinaMovlik/IrinaMovlik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ## Образование 
+  * **Белорусский государственный университет информатики и радиоэлектроники** (2014-2018) **Специализация:** Инженер-электроник-программист
+  * **Belhard Academy** (2025) **Специализация:** Software Testing Enginer
+   
+   ## Языки 
+   * русский 
+   * английский (Level A2)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
